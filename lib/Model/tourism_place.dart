@@ -141,4 +141,53 @@ var tourismPlaceList = [
     ],
     category: 'Candi',
   ),
+
+  TourismPlace(
+    name: 'Kampung Budaya',
+    location: 'Telukjambe, Karawang',
+    description:
+    'Kampung Budaya Karawang adalah destinasi wisata budaya yang menampilkan seni tradisional, bangunan khas, dan kegiatan budaya lokal. Tempat ini cocok untuk belajar dan menikmati kebudayaan Karawang.',
+    openDays: 'Setiap Hari',
+    openTime: '08:00 - 18:00 WIB',
+    ticketPrice: 'Rp15.000',
+    imageAsset: 'images/Kampung_Budaya.jpeg',
+    imageUrls: [
+      'https://assets.kompasiana.com/items/album/2016/10/11/img-20161009-151235-hdr-57fcd05d92fdfd3715595655.jpg?t=o&v=325',
+      'https://i3.wp.com/media.suara.com/suara-partners/purwasuka/thumbs/970x545/2022/08/16/1-kampung-budaya-karawang.jpg?ssl=1',
+      'https://assets-a1.kompasiana.com/items/album/2016/10/11/img-20161009-153121-hdr-57fccf7092fdfda31459565b.jpg',
+    ],
+    category: 'Kampung',
+  ),
+
+  TourismPlace(
+    name: 'Bukit Cinta Karawang',
+    location: 'Tegalwaru, Karawang',
+    description:
+    'Bukit Cinta menawarkan pemandangan alam yang indah dan cocok untuk berfoto dengan latar belakang bukit hijau dan taman yang asri.',
+    openDays: 'Setiap Hari',
+    openTime: '08:00 - 17:00 WIB',
+    ticketPrice: 'Rp10.000',
+    imageAsset: 'images/Bukit.jpg',
+    imageUrls: [
+      'https://awsimages.detik.net.id/community/media/visual/2022/01/10/wisata-jembatan-cinta-di-karawang_169.jpeg?w=600&q=90',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcN1Ulpa4d2cdvvPnatDdZUJP2l5yIQSRdE0lWRZHzlCOF_65uZOkhpXAYdzPR4P-rZrg&usqp=CA...',
+    ],
+    category: 'Bukit',
+  ),
+
+  TourismPlace(
+    name: 'Kampung Turis',
+    location: 'Tegalwaru, Karawang',
+    description: 'Kampung Turis Karawang adalah destinasi wisata yang terletak di Kampung Parakan Badak, Desa Mekarbuana, Kecamatan Tegalwaru, Karawang, Jawa Barat. Tempat ini sangat cocok untuk liburan keluarga dengan berbagai fasilitas yang tersedia, seperti waterpark, restoran, villa penginapan, dan area rekreasi yang menyenangkan.',
+    openDays: 'Setiap Hari',
+    openTime: '09.00-17.00',
+    ticketPrice: 'Rp25.000',
+    imageAsset: 'images/Kampung_Turis.jpeg',
+    imageUrls: [
+      'https://awsimages.detik.net.id/community/media/visual/2023/11/06/lanscape-area-villa-kampung-turis-karawang.jpeg?w=800',
+      'https://news.karawang.center/wp-content/uploads/2020/09/abil-062-min.png',
+      'https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/22/2024/07/08/adASFSDHDFJ-1196206817.jpg',
+    ],
+    category: 'Kampung',
+  ),
 ];
