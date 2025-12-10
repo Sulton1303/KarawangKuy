@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:karawang_kuy/main_screen.dart';
 
 void main() => runApp(const MyApp());
 
