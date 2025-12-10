@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:karawang_kuy/detail_screen.dart';
+import 'package:wisata_karawang/Model/tourism_place.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({Key? key}) : super(key: key);
