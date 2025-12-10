@@ -74,4 +74,37 @@ var tourismPlaceList = [
     category: 'Pantai',
   ),
 
+  TourismPlace(
+    name: 'Vihara Sian Djin Ku Poh',
+    location: 'Tegalwaru, Karawang',
+    description:
+    'Vihara ini merupakan tempat ibadah dengan arsitektur khas Tionghoa dan penuh dengan nilai sejarah serta budaya.',
+    openDays: 'Setiap Hari',
+    openTime: '08:00 - 16:00 WIB',
+    ticketPrice: 'Donasi Sukarela',
+    imageAsset: 'images/Vihara.jpg',
+    imageUrls: [
+      'https://assets-a1.kompasiana.com/items/album/2021/04/13/photo-2021-04-13-18-43-35-6075844f8ede48141f526cb2.jpg',
+      'https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Vihara-Sian-Djin-Ku-Poh.jpg',
+      'https://www.karawangkab.go.id/sites/default/files/berita/WhatsApp%20Image%202018-08-23%20at%2011.24.20.jpeg',
+    ],
+    category: 'Tempat Ibadah',
+  ),
+
+  TourismPlace(
+    name: 'Situ Kamojing',
+    location: 'Kamojing, Karawang',
+    description:
+    'Danau buatan yang dikelilingi pepohonan hijau, tempat yang sempurna untuk beristirahat dan menikmati suasana alam.',
+    openDays: 'Setiap Hari',
+    openTime: '08:00 - 17:00 WIB',
+    ticketPrice: 'Rp10.000',
+    imageAsset: 'images/Situ_Kamojing.jpg',
+    imageUrls: [
+      'https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/giwangkara/2020/12/Situ-Kamojing-Objek-Wisata-di-Karawang.jpg',
+      'https://s1-id.alongwalker.co/wp-content/uploads/2024/07/image-top-10-gambar-situ-kamojing-karawang-sejarah-legenda-lokasi-alamat-misteri-mitos-hotel-di-sekitar-9cc1a41621e7b6ab2224c4f1b3757f7e.jpg',
+      'https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/23/Picsart_23-06-23_14-06-17-716-2508097148.jpg',
+    ],
+    category: 'Danau',
+  ),
 ];
