@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_karawang/Model/tourism_place.dart';
+import 'package:karawang_kuy/Model/tourism_place.dart';
 
 class DetailScreen extends StatefulWidget {
   final TourismPlace place;
