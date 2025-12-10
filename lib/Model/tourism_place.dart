@@ -107,4 +107,38 @@ var tourismPlaceList = [
     ],
     category: 'Danau',
   ),
+
+  TourismPlace(
+    name: 'Monumen Kebulatan Tekad Rengasdengklok',
+    location: 'Rengasdengklok, Karawang',
+    description:
+    'Monumen sejarah yang merupakan tempat penting dalam perjuangan kemerdekaan Indonesia, tempat para pemuda menyuarakan proklamasi.',
+    openDays: 'Setiap Hari',
+    openTime: '08:00 - 16:00 WIB',
+    ticketPrice: 'Gratis',
+    imageAsset: 'images/Monumen_Kebulatan.jpeg',
+    imageUrls: [
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfl2Z4pIJN9UujSL-1xa3bOPcpN5-hkcAwg&s',
+      'https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/1-Monumen-Kebulatan-Tekad.jpg',
+      'https://asset.kompas.com/crops/XCJk074pnZwcrROHQ3crDCa_0Iw=/136x0:1069x622/750x500/data/photo/2019/08/13/5d523a87b6024.jpg',
+    ],
+    category: 'Monumen',
+  ),
+
+  TourismPlace(
+    name: 'Candi Jiwa',
+    location: 'Batujaya, Karawang',
+    description:
+    'Candi Jiwa adalah situs arkeologi dari masa Kerajaan Tarumanegara yang memiliki nilai sejarah tinggi. Tempat ini cocok untuk pecinta sejarah dan arkeologi.',
+    openDays: 'Setiap Hari',
+    openTime: '08:00 - 16:00 WIB',
+    ticketPrice: 'Donasi Sukarela',
+    imageAsset: 'images/Candi_Jiwa.jpg',
+    imageUrls: [
+      'https://disparbud.jabarprov.go.id/wp-content/uploads/2023/03/photo_2023-03-11_06-24-49.jpg',
+      'https://turisian.com/wp-content/uploads/2022/05/Candi-Jiwa-Karawang.jpg',
+      'https://news.karawang.center/wp-content/uploads/2020/08/karawang-center-candi-batujaya.jpg',
+    ],
+    category: 'Candi',
+  ),
 ];
